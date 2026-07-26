@@ -9,7 +9,7 @@ Spring Boot 기반 백엔드를 개발하며, 클라우드 인프라와 MLOps까
 
 <a href="mailto:hanharamm@naver.com"><img src="https://img.shields.io/badge/Email-hanharamm%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Hanharam"><img src="https://img.shields.io/badge/GitHub-Hanharam-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-
+<a href="https://yosi42.tistory.com/"><img src="https://img.shields.io/badge/Blog-Hanharam-181717?style=flat-square&logo=github&logoColor=white" alt="Blog"/></a>
 </div>
 
 ## 👋 About Me
