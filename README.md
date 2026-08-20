@@ -24,6 +24,7 @@ Spring Boot 기반 백엔드를 개발하며, 클라우드 인프라와 MLOps까
 | --- | --- | --- | --- |
 | **University Makeus Challenge GCU 9기** | 2025.09 - 2026.02 | Server(Spring) Challenger | ReMU의 소셜 로그인·JWT·회원 기능을 개발했으며, 프로젝트가 데모데이 최우수상을 수상했습니다. |
 | **Leets 7기** | 2026.03 - 2026.08 | Backend | PromSearch 프로젝트 진행 |
+| **Cloud Club 10기** | 2026.08 - 2026.12 | YB | 스터디 진행 |
 
 ## 🚀 Featured Projects
 
